@@ -1,0 +1,2 @@
+(1) 260703_fred_cpi_monthly.csv
+U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: Purchasing Power of the Consumer Dollar in U.S. City Average [CUUR0000SA0R], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CUUR0000SA0R, July 3, 2026.
